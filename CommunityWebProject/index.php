@@ -9,5 +9,8 @@
         <div id="database">
             <?php include 'Code.php'; ?>
         </div>
+        <button onclick="Add.php">Aggiungi giocatore</button>
+        <button onclick="Remove.php">Rimuovi giocatore</button>
+        <button onclick="Modify.php">Modifica giocatore</button>
     </body>
 </html>
